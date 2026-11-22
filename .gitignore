@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Generated while you use the demo. The log holds local file paths and your queries.
+tool-log.jsonl
+.cache/
+notes/*.md
+
+# Your personal Claude Code settings for this folder
+.claude/settings.local.json
+
+__pycache__/
